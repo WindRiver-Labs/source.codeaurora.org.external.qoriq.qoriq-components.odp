@@ -1,0 +1,19 @@
+<map id="arch" name="arch">
+<area shape="rect" id="node2" href="dir_052e7602a29a4e1039e7de666bce86ca.html" title="arm32&#45;linux" alt="" coords="750,63,839,111"/>
+<area shape="rect" id="node9" href="dir_be9f6d876b8eda462084eff1b3ea4553.html" title="api" alt="" coords="413,159,485,207"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000006_000002.html" title="27" alt="" coords="497,178,512,192"/>
+<area shape="rect" id="node3" href="dir_70eaa2f41713610ea0cf8498c63ac358.html" title="arm64&#45;linux" alt="" coords="637,63,726,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000010_000002.html" title="27" alt="" coords="498,174,512,189"/>
+<area shape="rect" id="node4" href="dir_48117faa50f292645806ea8fb70008d8.html" title="default&#45;linux" alt="" coords="521,63,613,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000014_000002.html" title="27" alt="" coords="491,146,506,161"/>
+<area shape="rect" id="node5" href="dir_178cc946f187f307d85774a5fd402eaa.html" title="mips64&#45;linux" alt="" coords="402,63,497,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000018_000002.html" title="27" alt="" coords="450,133,465,147"/>
+<area shape="rect" id="node6" href="dir_03c05aea247c636c5180e1c14df87c04.html" title="power64&#45;linux" alt="" coords="275,63,378,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000022_000002.html" title="27" alt="" coords="402,133,417,148"/>
+<area shape="rect" id="node7" href="dir_8bf6b7e80d8919b75edbcc15956e61d9.html" title="x86_32&#45;linux" alt="" coords="157,63,251,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000026_000002.html" title="27" alt="" coords="389,158,404,173"/>
+<area shape="rect" id="node8" href="dir_e8c392aee706068680f6562db90ecbae.html" title="x86_64&#45;linux" alt="" coords="38,63,133,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000030_000002.html" title="27" alt="" coords="388,161,403,176"/>
+<area shape="rect" id="clust2" href="dir_4eda4fd55dd0f0d3e72752e79818319a.html" alt="" coords="27,52,947,121"/>
+<area shape="rect" id="clust1" href="dir_a97ec78d987d17ef5986981beb9a2005.html" title="odp" alt="" coords="16,16,957,132"/>
+</map>

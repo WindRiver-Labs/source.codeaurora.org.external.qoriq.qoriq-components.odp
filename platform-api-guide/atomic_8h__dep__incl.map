@@ -1,0 +1,7 @@
+<map id="atomic.h" name="atomic.h">
+<area shape="rect" id="node2" href="$abi-default_2barrier_8h.html" title="ODP barrier. " alt="" coords="5,80,75,107"/>
+<area shape="rect" id="node3" href="$abi-default_2rwlock_8h.html" title="ODP rwlock. " alt="" coords="99,80,170,107"/>
+<area shape="rect" id="node4" href="$abi-default_2ticketlock_8h.html" title="ODP ticketlock. " alt="" coords="194,80,283,107"/>
+<area shape="rect" id="node5" href="$barrier_8h.html" title="ODP execution barriers. " alt="" coords="308,80,377,107"/>
+<area shape="rect" id="node6" href="$ticketlock__inlines_8h_source.html" title="ticketlock_inlines.h" alt="" coords="401,80,535,107"/>
+</map>

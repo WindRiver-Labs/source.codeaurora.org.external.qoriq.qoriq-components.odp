@@ -1,0 +1,8 @@
+<map id="odp_pktio_capability_t" name="odp_pktio_capability_t">
+<area shape="rect" id="node2" href="$unionodp__pktio__set__op__t.html" title="Packet IO set operations. " alt="" coords="5,95,140,121"/>
+<area shape="rect" id="node3" href="$structodp__pktin__vector__capability__t.html" title="Packet input vector capabilities. " alt="" coords="165,95,359,121"/>
+<area shape="rect" id="node4" href="$structodp__pktio__config__t.html" title="Packet IO configuration options. " alt="" coords="383,95,514,121"/>
+<area shape="rect" id="node5" href="$structodp__pktio__parser__config__t.html" title="Parser configuration. " alt="" coords="172,5,347,32"/>
+<area shape="rect" id="node6" href="$unionodp__pktin__config__opt__t.html" title="Packet input configuration options bit field. " alt="" coords="371,5,527,32"/>
+<area shape="rect" id="node7" href="$unionodp__pktout__config__opt__t.html" title="Packet output configuration options bit field. " alt="" coords="551,5,715,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="rwlock_recursive.h" name="rwlock_recursive.h">
+<area shape="rect" id="node2" href="$api_2rwlock_8h.html" title="ODP RW Locks. " alt="" coords="184,229,301,256"/>
+<area shape="rect" id="node7" href="$api_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="489,80,625,107"/>
+<area shape="rect" id="node14" href="$api_2thread_8h.html" title="ODP thread API. " alt="" coords="856,229,971,256"/>
+<area shape="rect" id="node4" href="$api_2spec_2rwlock_8h.html" title="ODP RW Locks. " alt="" coords="168,311,317,338"/>
+<area shape="rect" id="node5" href="$visibility__begin_8h_source.html" title="odp/visibility_begin.h" alt="" coords="574,393,717,420"/>
+<area shape="rect" id="node6" href="$visibility__end_8h_source.html" title="odp/visibility_end.h" alt="" coords="341,393,475,420"/>
+<area shape="rect" id="node9" href="$api_2spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="380,155,548,181"/>
+<area shape="rect" id="node11" href="$api_2align_8h.html" title="ODP alignments. " alt="" coords="508,229,615,256"/>
+<area shape="rect" id="node13" href="$api_2spec_2align_8h.html" title="ODP alignments. " alt="" coords="392,311,531,338"/>
+<area shape="rect" id="node15" href="$thread__types_8h.html" title="ODP thread API types. " alt="" coords="928,304,1064,345"/>
+<area shape="rect" id="node17" href="$api_2spec_2thread_8h.html" title="ODP thread API. " alt="" coords="757,311,904,338"/>
+</map>

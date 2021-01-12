@@ -1,0 +1,12 @@
+<map id="std_clib.h" name="std_clib.h">
+<area shape="rect" id="node2" href="$arch_2arm32-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$arch_2arm64-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="108,80,187,107"/>
+<area shape="rect" id="node4" href="$arch_2default-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="211,80,289,107"/>
+<area shape="rect" id="node5" href="$arch_2mips64-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="313,80,392,107"/>
+<area shape="rect" id="node6" href="$arch_2power64-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="416,80,495,107"/>
+<area shape="rect" id="node7" href="$arch_2x86__32-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="519,80,597,107"/>
+<area shape="rect" id="node8" href="$arch_2x86__64-linux_2odp_2api_2abi_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="621,80,700,107"/>
+<area shape="rect" id="node9" href="$api_2std__clib_8h_source.html" title="std_clib.h" alt="" coords="621,155,700,181"/>
+<area shape="rect" id="node10" href="$odp__api_8h.html" title="The OpenDataPlane API. " alt="" coords="621,229,700,256"/>
+<area shape="rect" id="node11" href="$odp_8h.html" title="WARNING: THIS FILE IS DEPRECATED AND WILL BE REMOVED!!! ODP APPLICATIONS SHOULD NOW INCLUDE odp_api..." alt="" coords="633,304,688,331"/>
+</map>
